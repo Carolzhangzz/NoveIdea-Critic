@@ -1,4 +1,4 @@
-# Research IdeaScope
+# ResearchIdea Critic
 
 > 95% of LLM-generated "novel" ideas are duplicates. This tool teaches AI actual taste.
 
@@ -41,10 +41,10 @@ Integrates methodologies from 16+ papers on automated research ideation:
 
 ```bash
 # Clone the repo
-git clone https://github.com/Carolzhangzz/Research-IdeaScope.git
+git clone https://github.com/Carolzhangzz/ResearchIdea-Critic.git
 
 # Copy skills to your Claude Code skills directory
-cp -r Research-IdeaScope/skills/* ~/.claude/skills/
+cp -r ResearchIdea-Critic/skills/* ~/.claude/skills/
 ```
 
 ### Usage
@@ -162,10 +162,10 @@ MIT — see [LICENSE.md](LICENSE.md)
 ## Citation
 
 ```bibtex
-@software{research_ideascope,
-  title={Research IdeaScope},
+@software{researchidea_critic,
+  title={ResearchIdea Critic},
   author={Zhang, Qinshi},
   year={2026},
-  url={https://github.com/Carolzhangzz/Research-IdeaScope}
+  url={https://github.com/Carolzhangzz/ResearchIdea-Critic}
 }
 ```

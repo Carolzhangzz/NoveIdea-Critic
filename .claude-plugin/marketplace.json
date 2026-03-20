@@ -1,10 +1,10 @@
 {
-  "name": "research-ideascope",
+  "name": "researchidea-critic",
   "version": "2.0.0",
-  "description": "Research IdeaScope — evaluate and generate research ideas using Scientific Taste. Distinguishes paradigm-shifting ideas from incremental variants. Works for any venue.",
+  "description": "ResearchIdea Critic — evaluate and generate research ideas using Scientific Taste. Distinguishes paradigm-shifting ideas from incremental variants. Works for any venue.",
   "author": "Qinshi Zhang",
   "license": "MIT",
-  "homepage": "https://github.com/Carolzhangzz/Research-IdeaScope",
+  "homepage": "https://github.com/Carolzhangzz/ResearchIdea-Critic",
   "keywords": [
     "research",
     "scientific-taste",
