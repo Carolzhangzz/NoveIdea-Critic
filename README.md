@@ -1,4 +1,4 @@
-# ResearchIdea Critic
+# NovelIdea Critic
 
 > 95% of LLM-generated "novel" ideas are duplicates. This tool teaches AI actual taste.
 
@@ -41,10 +41,10 @@ Integrates methodologies from 16+ papers on automated research ideation:
 
 ```bash
 # Clone the repo
-git clone https://github.com/Carolzhangzz/ResearchIdea-Critic.git
+git clone https://github.com/Carolzhangzz/NovelIdea-Critic.git
 
 # Copy skills to your Claude Code skills directory
-cp -r ResearchIdea-Critic/skills/* ~/.claude/skills/
+cp -r NovelIdea-Critic/skills/* ~/.claude/skills/
 ```
 
 ### Usage
@@ -162,10 +162,10 @@ MIT — see [LICENSE.md](LICENSE.md)
 ## Citation
 
 ```bibtex
-@software{researchidea_critic,
-  title={ResearchIdea Critic},
+@software{novelidea_critic,
+  title={NovelIdea Critic},
   author={Zhang, Qinshi},
   year={2026},
-  url={https://github.com/Carolzhangzz/ResearchIdea-Critic}
+  url={https://github.com/Carolzhangzz/NovelIdea-Critic}
 }
 ```
